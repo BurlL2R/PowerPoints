@@ -46,3 +46,11 @@ Gran Kain merged with Einhasad, so I introduced them to our clans.
 lmao F4.
 
 ****
+
+More Burl Things
+
+[CP Guide](https://burll2r.github.io/Lineage-2-Revolution-CP-Guide/)
+
+[Data Stuff](https://burll2r.github.io/Data-Stuff/)
+
+[Change Log](https://burll2r.github.io/)
